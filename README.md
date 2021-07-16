@@ -32,7 +32,7 @@ H<sub>1</sub> = one or more of the variables influence the MPG of MechaCar proto
 
 ## T-Tests on Suspension Coils
 
-Using your knowledge of R, perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+#### Using your knowledge of R, perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
 The t-tests have very similar findings to the summary stastistics on Suspension Coils. At the aggregate level, they are not statistically different from the population mean of 1,500 because the p-value is 0.06. 
 ![All lots](https://github.com/chloebellehooton/MechaCar_Statistical_Analysis/blob/main/Images/t_test_all.png)
