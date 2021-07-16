@@ -3,10 +3,9 @@ Module 15 Challenge
 
 
 ## Linear Regression to Predict MPG
-DELIVERABLE 1
 
-H0 = can not predict / random
-H1= non random
+H<sub>0</sub> = the other variables in the dataset cannot predict the MPG of MechaCar prototypes beyond a random level
+H<sub>1</sub> = one or more of the variables influence the MPG of MechaCar prototypes at a non-random events
 
 
 Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
@@ -24,4 +23,13 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 - This linear model predicts mpg of MechaCar prototypes effectively because the R-Sqaured is 0.7149. This would be considered a strong correlation under the Pearson system and shows an accuracy rate of 71%. 
 
 
-## 
+## Summary Statistics on Suspension Coils
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+
+![Total Summary](https://github.com/chloebellehooton/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
+
+![Lot Summary](https://github.com/chloebellehooton/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
+
+
